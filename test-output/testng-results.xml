@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13427" started-at="2018-04-14T04:01:34Z" finished-at="2018-04-14T04:01:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13427" started-at="2018-04-14T04:01:34Z" finished-at="2018-04-14T04:01:48Z">
+      <class name="com.qa.JSBase.JSBase">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.JSBase.JSBase@16216b3]" name="setup" is-config="true" duration-ms="4904" started-at="2018-04-14T09:31:34Z" finished-at="2018-04-14T09:31:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testMethod()[pri:0, instance:com.qa.JSBase.JSBase@16216b3]" name="testMethod" duration-ms="8489" started-at="2018-04-14T09:31:39Z" finished-at="2018-04-14T09:31:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.JSBase.JSBase@16216b3]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-04-14T09:31:48Z" finished-at="2018-04-14T09:31:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.JSBase.JSBase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
